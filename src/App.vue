@@ -3,6 +3,7 @@
     <p> count: <strong> {{ count }} </strong></p>
     <button>{{ Increment }}</button>
   </div>
+  <div>'hello'</div>
 </template>
 
 <script>
